@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Dummy test repo
+Hello from TortoiseGit.
